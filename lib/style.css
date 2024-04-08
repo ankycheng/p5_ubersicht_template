@@ -1,0 +1,16 @@
+#sketch{
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    background-color: aquamarine;
+}
